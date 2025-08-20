@@ -1,4 +1,4 @@
-const API_URL = "https://barbe-demo-backend.onrender.com"; // reemplaza por tu backend en Render
+const API_URL = "https://barbe-demo-backend.onrender.com";
 // 🔹 Elementos del DOM
 const authModal = document.getElementById("authModal");
 const openAuth = document.getElementById("openAuth");
